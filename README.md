@@ -93,7 +93,7 @@
 </ul>
 <hr />
 <h2 dir="auto">How to Play <em>Bloodmoney Clicker</em> Online</h2>
-<p dir="auto">Getting started on <a href="https://bloodmoneygame.com/" target="_blank" rel="noopener noreferrer nofollow">https://bloodmoneygame.io</a>&nbsp;is simple:</p>
+<p dir="auto">Getting started on <a href="https://bloodmoneygame.io" target="_blank" rel="noopener noreferrer nofollow">https://bloodmoneygame.io</a>&nbsp;is simple:</p>
 <ol dir="auto">
 <li><strong>Meet Harvey</strong>: Begin clicking on Harvey Harvington to earn $1 per click.</li>
 <li><strong>Reach the Goal</strong>: Aim to collect $25,000 for your surgery.</li>
