@@ -1,5 +1,5 @@
 <h2 dir="auto"><strong>Bloodmoney Clicker Game Online &ndash; Free &amp; No Download</strong></h2>
-<p dir="auto">Welcome to bloodmoneygame.com, your go-to spot for playing the viral <em>Bloodmoney Clicker</em> game directly in your browser. It&rsquo;s completely free, requires no downloads, no sign-ups, and no purchases&mdash;just you, your mouse, and the enigmatic Harvey Harvington.</p>
+<p dir="auto">Welcome to bloodmoneygame.io, your go-to spot for playing the viral <em>Bloodmoney Clicker</em> game directly in your browser. It&rsquo;s completely free, requires no downloads, no sign-ups, and no purchases&mdash;just you, your mouse, and the enigmatic Harvey Harvington.</p>
 <hr />
 <h3 dir="auto">Table of Contents</h3>
 <ul dir="auto">
